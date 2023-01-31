@@ -1,0 +1,14 @@
+{
+  "name": "dir-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directory-tree": "^3.5.1"
+  }
+}
